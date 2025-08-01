@@ -3,8 +3,8 @@ from threading import Thread
 from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import CommandHandler, CallbackQueryHandler, CallbackContext, Updater
 
-BOT_TOKEN = '7510781645:AAFiqqdBUqOMXZupHKzWQqZvSgkl8k89d1w'
-CHANNEL_USERNAME = '@freeinstagramfollowers_10'
+BOT_TOKEN = '8421347465:AAHhz3e3B3KGiVUhvAFPar1G7teacTqBmEQ'
+CHANNEL_USERNAME = 'https://t.me/freefollowers_28'
 NETLIFY_BASE_URL = 'https://free-followersinsta.netlify.app'
 
 app = Flask(__name__)
