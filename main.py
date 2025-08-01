@@ -4,7 +4,7 @@ from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import CommandHandler, CallbackQueryHandler, CallbackContext, Updater
 
 BOT_TOKEN = '8421347465:AAHhz3e3B3KGiVUhvAFPar1G7teacTqBmEQ'
-CHANNEL_USERNAME = 'https://t.me/freefollowers_28'
+CHANNEL_USERNAME = '@freefollowers_28'
 NETLIFY_BASE_URL = 'https://free-followersinsta.netlify.app'
 
 app = Flask(__name__)
